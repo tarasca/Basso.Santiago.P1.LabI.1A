@@ -1,0 +1,8 @@
+recibo 1
+info item= id: 32 nombre:Alimento para perros marca:Pedigree
+factura= precio unitario:19.5$ cantidad:Alimento para perros total:58.5$
+--------------------------------------------------------------------------------------------------------------------------------------------------
+recibo 2
+info item= id: 1 nombre:Alimento para perros marca:Pedigree
+factura= precio unitario:12.99$ cantidad:Alimento para perros total:25.98$
+--------------------------------------------------------------------------------------------------------------------------------------------------
